@@ -2,7 +2,7 @@
 
 > A dark theme for [PuTTY](http://www.putty.org/)
 
-TODO: Screenshot
+![Screenshot](https://www.dropbox.com/s/3v075zjicxwmg1g/screenshot.png?raw=1)
 
 ## Install
 
