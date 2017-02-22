@@ -16,9 +16,10 @@ If you use a PuTTY fork that supports portable session files (e.g. [PuTTY Tray](
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Teemu Lahti](https://avatars0.githubusercontent.com/u/294353?v=3&s=70)](https://github.com/teeli)
---- | ---
-[Teemu Lahti](https://github.com/teeli)
+
+[![Teemu Lahti](https://avatars0.githubusercontent.com/u/294353?v=3&s=70)](https://github.com/JimmyMultani) |
+--- |
+[Teemu Lahti](https://github.com/teeli) |
 
 ## License
 
