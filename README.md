@@ -2,13 +2,13 @@
 
 > A dark theme for [PuTTY](http://www.putty.org/)
 
-![Screenshot](https://www.dropbox.com/s/3v075zjicxwmg1g/screenshot.png?raw=1)
+![Screenshot](assets/img/screenshot.png)
 
 ## Install
 
 Execute .reg file to create new session with colors, or edit .reg file and put the name of existing session as regedit path to change colors of your existing session.
 
-If you use a PuTTY fork that supports portable session files (e.g. [PuTTY Tray](https://puttytray.goeswhere.com/)), open the session file in a text editor and replace the color values with the ones from [dracula.portable](dracula.portable).
+If you use a PuTTY fork that supports portable session files (e.g. [PuTTY Tray](https://puttytray.goeswhere.com/), [KiTTY](https://www.9bis.net/kitty/)), open the session file in a text editor and replace the color values with the ones from [dracula.portable](dracula.portable).
 
 ~~All instructions can be found at [draculatheme.com/putty](https://draculatheme.com/putty).~~
 
