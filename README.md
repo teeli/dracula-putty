@@ -2,7 +2,7 @@
 
 > A dark theme for [PuTTY](http://www.putty.org/)
 
-![Screenshot](https://www.dropbox.com/s/3v075zjicxwmg1g/screenshot.png?raw=1)
+![Screenshot](assets/img/msgcat-output.png)
 
 ## Install
 
