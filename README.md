@@ -6,7 +6,7 @@
 
 ## Install
 
-Execute .reg file to create new session with colors, or edit .reg file and put the name of existing session as regedit path to change colors of your existing session.
+Execute .ps1 file to create new session with colors, or edit .ps1 file and put the name of existing session as regedit path to change colors of your existing session.
 
 If you use a PuTTY fork that supports portable session files (e.g. [PuTTY Tray](https://puttytray.goeswhere.com/)), open the session file in a text editor and replace the color values with the ones from [dracula.portable](dracula.portable).
 
